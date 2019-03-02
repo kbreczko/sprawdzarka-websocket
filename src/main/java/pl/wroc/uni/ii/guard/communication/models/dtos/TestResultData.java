@@ -1,4 +1,4 @@
-package pl.wroc.uni.ii.guard.models.dtos;
+package pl.wroc.uni.ii.guard.communication.models.dtos;
 
 import lombok.*;
 
